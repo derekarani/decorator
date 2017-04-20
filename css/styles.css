@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+}
+
+.after{
+  float: right;
+  font-weight: bolder;
+  /* IDEA: we should just leave this to be the way it is */
+
+}
+
+.before{
+  float: left;
+
+}
