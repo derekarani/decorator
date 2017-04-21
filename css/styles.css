@@ -5,11 +5,23 @@ h1{
 .after{
   float: right;
   font-weight: bolder;
-  /* IDEA: we should just leave this to be the way it is */
+
+
 
 }
 
 .before{
   float: left;
 
+
+}
+
+.intro{
+  text-align: center;
+  background-image:url(c:/users/Derick/Desktop/decorator/img/7.jpg);
+}
+
+.size{
+   height: 300px;
+   width: 300px;
 }
